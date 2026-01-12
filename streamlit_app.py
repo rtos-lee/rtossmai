@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("🎈 RTOS Apps")
+st.title("🎈 FREE Apps")
 st.write(
     "Welcome My App"
 )
